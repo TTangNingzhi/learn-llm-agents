@@ -1,0 +1,55 @@
+# Learn LLM & Agents
+
+My personal reading list for learning LLM, agents, and related tooling.
+
+## SDKs
+
+- [Claude Agent SDK](https://code.claude.com/docs/en/agent-sdk)
+- [OpenAI Agents SDK](https://developers.openai.com/api/docs/guides/agents)
+
+## Standards & Protocols
+- [modelcontextprotocol.io](https://modelcontextprotocol.io/)
+- [agentskills.io](https://agentskills.io/)
+
+## Courses
+
+- [Anthropic SkillJar](https://anthropic.skilljar.com/) — official courses
+- [Become a Claude Certified Architect](https://anthropic.skilljar.com/claude-certified-architect-foundations-access-request)
+- [Stanford CS336: Language Modeling from Scratch](https://cs336.stanford.edu/)
+- [Stanford CS146S: The Modern Software Developer](https://themodernsoftware.dev/)
+
+## Blogs & Posts
+
+- [(Anthropic Engineering) Claude Code auto mode: a safer way to skip permissions](https://www.anthropic.com/engineering/claude-code-auto-mode)
+- [(Claude Blog) Improving skill-creator: Test, measure, and refine Agent Skills](https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills)
+- [(Thariq) Using Claude Code: Session Management & 1M Context](https://x.com/trq212/status/2044548257058328723)
+- [(Thariq) Lessons from Building Claude Code: Seeing like an Agent](https://x.com/trq212/status/2027463795355095314)
+- [(Thariq) Lessons from Building Claude Code: Prompt Caching Is Everything](https://x.com/trq212/status/2024574133011673516)
+- [(Viv) The Anatomy of an Agent Harness](https://x.com/Vtrivedy10/status/2031408954517971368)
+
+## Research
+
+- [Agent Skills '26 Workshop](https://agentskills-workshop.github.io/)
+- [SkillsBench: Benchmarking How Well Skills Work Across Diverse Tasks](https://www.skillsbench.ai/)
+- [Agent Skills: A Data-Driven Analysis of Claude Skills for Extending LLM Functionality](https://arxiv.org/abs/2602.08004)
+- [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
+
+## Skills
+
+- [clawskills.sh](https://clawskills.sh/)
+- [SkillHub](https://skillhub.cn/)
+- [ClawHub](https://clawhub.ai/)
+- [SkillsMP](https://skillsmp.com/)
+- [女娲.md](https://github.com/alchaincyf/nuwa-skill)
+- [同事.md](https://github.com/titanwings/colleague-skill)
+
+## Tools
+
+- [Pi Monorepo](https://pi.dev/)
+- [tiktoken](https://github.com/openai/tiktoken)
+- [autoresearch](https://github.com/karpathy/autoresearch)
+
+## Podcasts
+
+- [Zhang Xiaojun Podcast](https://www.youtube.com/@xiaojunpodcast)
+- [WhynotTV](https://www.youtube.com/@whynottv1999)
