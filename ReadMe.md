@@ -31,12 +31,14 @@ My personal reading list for learning LLM, agents, and related tooling.
 
 ## Research
 
+- [ACM Conference on AI and Agentic Systems (CAIS)](https://www.caisconf.org/)
 - [Agent Skills '26 Workshop](https://agentskills-workshop.github.io/)
 - [SkillsBench: Benchmarking How Well Skills Work Across Diverse Tasks](https://www.skillsbench.ai/)
 - [Agent Skills: A Data-Driven Analysis of Claude Skills for Extending LLM Functionality](https://arxiv.org/abs/2602.08004)
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
 - [Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407)
-- [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/pdf/2406.09264)
+- [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/abs/2406.09264)
+- [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
 
 ## Skills
 
