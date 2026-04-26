@@ -28,6 +28,7 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [(Thariq) Lessons from Building Claude Code: Prompt Caching Is Everything](https://x.com/trq212/status/2024574133011673516)
 - [(Thariq) Claude Code /insights](https://x.com/trq212/status/2019173731042750509)
 - [(Viv) The Anatomy of an Agent Harness](https://x.com/Vtrivedy10/status/2031408954517971368)
+- [(Boris Cherny) Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0)
 
 ## Research
 
