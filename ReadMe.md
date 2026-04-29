@@ -31,11 +31,14 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [(Boris Cherny) Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0)
 - [(Hugging Face) Agent Traces on the Hub](https://huggingface.co/changelog/agent-trace-viewer)
 
-## Research
+## Communities
 
 - [ACM Conference on AI and Agentic Systems (CAIS)](https://www.caisconf.org/)
 - [Agent Skills '26 Workshop](https://agentskills-workshop.github.io/)
 - [SkillsBench: Benchmarking How Well Skills Work Across Diverse Tasks](https://www.skillsbench.ai/)
+
+## Research
+
 - [Agent Skills: A Data-Driven Analysis of Claude Skills for Extending LLM Functionality](https://arxiv.org/abs/2602.08004)
 - [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
 - [Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407)
@@ -62,6 +65,7 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [tiktoken](https://github.com/openai/tiktoken)
 - [autoresearch](https://github.com/karpathy/autoresearch)
 - [Claude Code](https://github.com/TTangNingzhi/claude-code)
+- [Cursor SDK](https://cursor.com/blog/typescript-sdk)
 
 ## Podcasts
 
