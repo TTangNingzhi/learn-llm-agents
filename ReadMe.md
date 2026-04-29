@@ -40,6 +40,9 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [Your Agent Is Mine: Measuring Malicious Intermediary Attacks on the LLM Supply Chain](https://arxiv.org/abs/2604.08407)
 - [Towards Bidirectional Human-AI Alignment: A Systematic Review for Clarifications, Framework, and Future Directions](https://arxiv.org/abs/2406.09264)
 - [Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering](https://arxiv.org/abs/2604.08224)
+- [SWE-chat: Coding Agent Interactions From Real Users in the Wild](https://arxiv.org/abs/2604.20779)
+- [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158)
+- [Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents](https://arxiv.org/abs/2601.20144)
 
 ## Skills
 
@@ -49,6 +52,7 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [SkillsMP](https://skillsmp.com/)
 - [女娲.md](https://github.com/alchaincyf/nuwa-skill)
 - [同事.md](https://github.com/titanwings/colleague-skill)
+- [google/skills](https://github.com/google/skills)
 
 ## Tools
 
