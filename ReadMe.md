@@ -48,6 +48,7 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills](https://arxiv.org/abs/2603.25158)
 - [Trajectory2Task: Training Robust Tool-Calling Agents with Synthesized Yet Verifiable Data for Complex User Intents](https://arxiv.org/abs/2601.20144)
 - [Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond](https://arxiv.org/abs/2604.22748)
+- [Navigating Rifts in Human-LLM Grounding: Study and Benchmark](https://arxiv.org/abs/2503.13975v2)
 
 ## Skills
 
