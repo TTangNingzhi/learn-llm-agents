@@ -30,6 +30,7 @@ My personal reading list for learning LLM, agents, and related tooling.
 - [(Viv) The Anatomy of an Agent Harness](https://x.com/Vtrivedy10/status/2031408954517971368)
 - [(Boris Cherny) Mastering Claude Code in 30 minutes](https://www.youtube.com/watch?v=6eBSHbLKuN0)
 - [(Hugging Face) Agent Traces on the Hub](https://huggingface.co/changelog/agent-trace-viewer)
+- [(Cursor) Continually improving our agent harness](https://cursor.com/blog/continually-improving-agent-harness)
 
 ## Communities
 
